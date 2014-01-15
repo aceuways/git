@@ -4,8 +4,9 @@
 
 main()
 {
+    printf("Fare thee well");
     printf("Hello World");
-
+      printf("Quicker Version");
 
 }
 
